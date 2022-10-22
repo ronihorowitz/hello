@@ -6,6 +6,7 @@ function App() {
         Hello World
         And all the others
         And some more
+        <p>Even more</p>
     </div>
   );
 }
